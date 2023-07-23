@@ -1,5 +1,5 @@
 
-<h3 align="start">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="start">Hi, I'm mubariz, I'm a front end developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
